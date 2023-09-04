@@ -1,0 +1,19 @@
+{
+  "name": "computacao-grafica",
+  "version": "1.0.0",
+  "description": "Repositório que tem como objetivo abrigar as minhas experiências realizadas na matéria de Computação Gráfica e Realidade Virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvxbs/computacao-grafica.git"
+  },
+  "author": "wvxbs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wvxbs/computacao-grafica/issues"
+  },
+  "homepage": "https://github.com/wvxbs/computacao-grafica#readme"
+}
