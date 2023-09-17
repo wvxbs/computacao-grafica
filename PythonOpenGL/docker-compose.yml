@@ -1,8 +1,10 @@
 version: '3.4'
 
 services:
-  pythonopengl:
-    image: pythonopengl
+  app:
+    image: wvxbs/python-opengl
     build:
       context: .
       dockerfile: ./Dockerfile
+    volumes:
+      - .:/app
